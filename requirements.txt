@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+reportlab
+pytrends
+openai
+python-dotenv
+reportlab
